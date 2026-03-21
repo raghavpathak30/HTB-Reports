@@ -61,9 +61,12 @@ HTB-Reports/
 
 | Name | OS | Difficulty | Techniques Used | Status |
 |------|----|-----------|----------------|--------|
-| — | — | — | — | 🔄 Coming Soon |
+| [Appointment](./machines/appointment.md) | Linux | Very Easy | SQL Injection, auth bypass | ✅ Completed |
+| [Crocodile](./machines/crocodile.md) | Linux | Very Easy | Anonymous FTP, credential reuse | ✅ Completed |
+| [Fawn](./machines/fawn.md) | Linux | Very Easy | Anonymous FTP misconfiguration | ✅ Completed |
+| [Responder](./machines/responder.md) | Windows | Very Easy | LLMNR poisoning, NetNTLMv2 cracking, WinRM | ✅ Completed |
 
-> Reports will be added as machines are completed. Each report covers reconnaissance, enumeration, exploitation, and post-exploitation steps.
+> Reports are organized with a consistent structure covering reconnaissance, enumeration, exploitation, and post-exploitation where applicable.
 
 ---
 
