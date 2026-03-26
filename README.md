@@ -62,9 +62,12 @@ HTB-Reports/
 | Name | OS | Difficulty | Techniques Used | Status |
 |------|----|-----------|----------------|--------|
 | [Appointment](./machines/appointment.md) | Linux | Very Easy | SQL Injection, auth bypass | ✅ Completed |
+| [Archetype](./machines/archetype.md) | Windows | Very Easy | Anonymous SMB, MSSQL `xp_cmdshell`, PowerShell history creds | ✅ Completed |
 | [Crocodile](./machines/crocodile.md) | Linux | Very Easy | Anonymous FTP, credential reuse | ✅ Completed |
 | [Fawn](./machines/fawn.md) | Linux | Very Easy | Anonymous FTP misconfiguration | ✅ Completed |
+| [Oopsie](./machines/oopsie.md) | Linux | Easy | Broken access control, file upload RCE, SUID PATH hijack | ✅ Completed |
 | [Responder](./machines/responder.md) | Windows | Very Easy | LLMNR poisoning, NetNTLMv2 cracking, WinRM | ✅ Completed |
+| [Vaccine](./machines/vaccine.md) | Linux | Easy | Anonymous FTP, SQL injection, reverse shell, sudo misconfig | ✅ Completed |
 
 > Reports are organized with a consistent structure covering reconnaissance, enumeration, exploitation, and post-exploitation where applicable.
 
