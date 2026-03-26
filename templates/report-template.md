@@ -139,6 +139,7 @@ find / -perm -4000 2>/dev/null
 - [HackTheBox – Machine Name](https://app.hackthebox.com/machines/XXXX)
 - [Relevant CVE](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-XXXX-XXXXX)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [GTFOBins](https://gtfobins.github.io/)
 
 ---
 
